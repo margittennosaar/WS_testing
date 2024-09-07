@@ -1,0 +1,54 @@
+
+@font-face {
+    font-family: "Kanit";
+    src: url("/fonts/Kanit-Medium.ttf") format('ttf'),
+    url('/fonts/Kanit-Regular.ttf') format('ttf'),
+    url('/fonts/Kanit-SemiBold.ttf') format('ttf'),
+
+}
+
+:root {
+  --header-size: 35px;
+  --sub-header-size: 29px;
+  --text-size: 17px;
+
+
+  --main-color: #304BFF;
+  
+
+  --violet-color: #9900FF;
+  --turquoise-color: #00FFCC;
+  --grey-color: #F3F3F3;
+
+  --white: #ffffff;
+  --black: #000000
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  font-weight: normal;
+}
+
+body {
+    min-height: 100vh;
+    color: var(--black);
+    background: var(--white);
+    transition:
+      color 0.5s,
+      background-color 0.5s;
+    line-height: 1.6;
+    font-family: 'Kanit';
+    font-size: var(--text-size);
+    display: flex;
+    flex-direction: column;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  height: 100%;
+}

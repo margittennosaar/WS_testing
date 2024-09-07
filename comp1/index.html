@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="fi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>High Score Hall Of Fame - Retro Game House</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="utils.js" defer></script>
+    <script src="main.js" defer></script>
+  </head>
+  <body>
+    <header>
+      <div class="in-header">
+        <img
+          class="header-logo"
+          src="assets/logo/logo-white.png"
+          alt="Retro Game House Logo"
+        />
+        <a class="button secondary login-button" href="#">Kirjaudu sisään</a>
+      </div>
+    </header>
+
+    <main>
+      <h1>High Score Hall Of Fame</h1>
+
+      <input
+        id="search-game"
+        class="search"
+        type="text"
+        placeholder="Hae pelejä"
+      />
+
+      <a id="game-template" class="game" href="peli.html">
+        <img
+          id="image"
+          class="game-image"
+          src="https://placehold.co/100x100"
+          alt="Game Image"
+        />
+        <div class="game-info">
+          <h3 id="game-name">{{game_name}}</h3>
+          <div class="best">
+            <p>Paras tulos:</p>
+            <p id="user-score">{{score}}</p>
+          </div>
+        </div>
+      </a>
+      <div id="game-container" class="games"></div>
+
+      <a
+        id="pagination-template"
+        class="pagination"
+        href="?page=1"
+        data-active="false"
+        >1</a
+      >
+      <div id="pagination-container" class="pagination-container"></div>
+    </main>
+
+    <footer>
+      <p class="copy">&copy; Taitaja 2024</p>
+    </footer>
+  </body>
+</html>

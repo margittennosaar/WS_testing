@@ -1,0 +1,200 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+:root {
+  --primary: #304bff;
+  --purple: #9900ff;
+  --turquoise: #00ffcc;
+  --gray: #f3f3f3;
+  --black: #000000;
+  --white: #ffffff;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 35px;
+}
+h2 {
+  font-size: 29px;
+}
+p {
+  font-size: 17px;
+}
+
+body {
+  font-family: "Kanit", sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  background-color: var(--primary);
+}
+
+.in-header {
+  max-width: 1200px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-logo {
+  height: 80px;
+  padding: 10px 0;
+}
+
+.login-button {
+  text-decoration: none;
+}
+
+main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  padding: 32px 280px;
+}
+
+footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 32px;
+  background-color: var(--primary);
+  color: var(--white);
+}
+
+.search {
+  padding: 12px;
+  border: 2px solid var(--primary);
+}
+.search::placeholder {
+  font-size: 17px;
+}
+.search:focus {
+  outline: 2px solid var(--primary);
+}
+
+.games {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.game {
+  text-decoration: none;
+  color: var(--black);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.game:hover {
+  background-color: var(--gray);
+}
+.game-image {
+  height: 100px;
+}
+.game-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.pagination-container {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  align-items: center;
+}
+
+.pagination {
+  width: 30px;
+  height: 30px;
+  border: 1px solid var(--primary);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--primary);
+  text-decoration: none;
+}
+.pagination:visited {
+  color: var(--primary);
+}
+.pagination:hover,
+.pagination[data-active="true"] {
+  background-color: var(--primary);
+  color: var(--white);
+}
+
+.result-container {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.result {
+  display: flex;
+  gap: 16px;
+}
+.result-info {
+  display: flex;
+  flex-direction: column;
+}
+.result[data-highlight="true"] {
+  background-color: var(--primary);
+  color: var(--white);
+  padding: 12px;
+}
+
+.button {
+  padding: 8px 24px;
+  border-radius: 0;
+  border: 2px solid var(--primary);
+  background-color: var(--white);
+  cursor: pointer;
+  transition: background-color 0.1s linear, color 0.1s linear,
+    border 0.1s linear;
+}
+.button:hover {
+  background-color: var(--primary);
+  color: var(--white);
+}
+.button.secondary {
+  background-color: var(--primary);
+  color: var(--white);
+  border: 2px solid var(--white);
+}
+.button.secondary:hover {
+  background-color: var(--white);
+  color: var(--primary);
+  border: 2px solid var(--primary);
+}
+
+.hidden {
+  display: none;
+}
+
+#game-template,
+#pagination-template,
+#result-template {
+  display: none;
+}
+
+@media screen and (max-width: 1000px) {
+  .in-header {
+    padding: 0 12px;
+  }
+
+  main {
+    padding: 12px;
+  }
+
+  footer {
+    padding: 12px;
+  }
+}

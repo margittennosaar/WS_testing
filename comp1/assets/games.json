@@ -1,0 +1,871 @@
+{
+    "games": [
+        {
+            "ID": 1,
+            "game_image": "",
+            "game_name": {
+                "en": "The Oregon Trail",
+                "fi": "Oregonin Polku"
+            },
+            "description": {
+                "en": "The Oregon Trail is a pioneering educational computer game focusing on the hardships of 19th-century pioneer life on the Oregon Trail.",
+                "fi": "Oregonin Polku on koulutuksellinen tietokonepeli, joka keskittyy 1800-luvun pioneerielämän vaikeuksiin Oregonin polulla."
+            },
+            "maker": "Namco",
+            "genre": "Strategy",
+            "publisher": "Midway",
+            "launched_year": 1971,
+            "original_platforms": [
+                "HP 2100"
+            ],
+            "added_to_hall_of_fame": "2015-06-04T10:00:00.000Z",
+            "hall_of_fame": [
+                {
+                    "username": "GhostHunter",
+                    "score": 31200,
+                    "date_time": "2019-07-15T14:25:00.000Z"
+                },
+                {
+                    "username": "ArcadeMaster",
+                    "score": 35000,
+                    "date_time": "2020-05-20T15:30:00.000Z"
+                },
+                {
+                    "username": "MazeCraze",
+                    "score": 29400,
+                    "date_time": "2021-08-23T16:00:00.000Z"
+                },
+                {
+                    "username": "HighScoreKid",
+                    "score": 85000,
+                    "date_time": "2018-06-11T12:00:00.000Z"
+                },
+                {
+                    "username": "PowerPellet",
+                    "score": 90000,
+                    "date_time": "2019-10-14T13:30:00.000Z"
+                },
+                {
+                    "username": "GhostBuster",
+                    "score": 92000,
+                    "date_time": "2020-12-21T14:45:00.000Z"
+                },
+                {
+                    "username": "AlienBlaster",
+                    "score": 57000,
+                    "date_time": "2018-05-18T11:30:00.000Z"
+                },
+                {
+                    "username": "InvaderDefender",
+                    "score": 62000,
+                    "date_time": "2019-07-12T14:00:00.000Z"
+                },
+                {
+                    "username": "SpaceAce",
+                    "score": 65000,
+                    "date_time": "2020-11-02T15:15:00.000Z"
+                },
+                {
+                    "username": "RockBlaster",
+                    "score": 47000,
+                    "date_time": "2018-08-16T09:30:00.000Z"
+                },
+                {
+                    "username": "StarPilot",
+                    "score": 150000,
+                    "date_time": "2019-11-20T11:00:00.000Z"
+                },
+                {
+                    "username": "AstroAce",
+                    "score": 52000,
+                    "date_time": "2020-12-18T12:30:00.000Z"
+                },
+                {
+                    "username": "ZaxxonAce",
+                    "score": 68000,
+                    "date_time": "2018-06-14T12:30:00.000Z"
+                },
+                {
+                    "username": "IsometricHero",
+                    "score": 71000,
+                    "date_time": "2019-07-18T13:45:00.000Z"
+                },
+                {
+                    "username": "SegaMaster",
+                    "score": 74000,
+                    "date_time": "2020-08-22T15:00:00.000Z"
+                },
+                {
+                    "username": "PuzzlePro",
+                    "score": 73000,
+                    "date_time": "2018-04-12T12:30:00.000Z"
+                },
+                {
+                    "username": "QbertKing",
+                    "score": 76000,
+                    "date_time": "2019-05-18T13:45:00.000Z"
+                },
+                {
+                    "username": "CubeMaster",
+                    "score": 78000,
+                    "date_time": "2020-06-20T15:00:00.000Z"
+                },
+                {
+                    "username": "GridMaster",
+                    "score": 58000,
+                    "date_time": "2018-05-15T11:15:00.000Z"
+                },
+                {
+                    "username": "LightCycle",
+                    "score": 60000,
+                    "date_time": "2019-06-18T13:00:00.000Z"
+                },
+                {
+                    "username": "BitWarrior",
+                    "score": 63000,
+                    "date_time": "2020-07-22T15:30:00.000Z"
+                }
+            ]
+        },
+        {
+            "ID": 2,
+            "game_image": "",
+            "game_name": {
+                "en": "Pac-Man",
+                "fi": "Pac-Man"
+            },
+            "description": {
+                "en": "Pac-Man is an arcade game developed by Namco and first released in 1980. It is widely considered one of the classics of the medium.",
+                "fi": "Pac-Man on Namcon kehittämä arcade-peli, joka julkaistiin ensimmäisen kerran vuonna 1980. Sitä pidetään laajalti yhtenä keskuksen klassikoista."
+            },
+            "maker": "Namco",
+            "genre": "Arcade",
+            "publisher": "Namco",
+            "launched_year": 1980,
+            "original_platforms": [
+                "Arcade"
+            ],
+            "added_to_hall_of_fame": "2016-07-04T10:00:00.000Z",
+            "hall_of_fame": [
+                {
+                    "username": "HighScoreKid",
+                    "score": 85000,
+                    "date_time": "2018-06-11T12:00:00.000Z"
+                },
+                {
+                    "username": "PowerPellet",
+                    "score": 90000,
+                    "date_time": "2019-10-14T13:30:00.000Z"
+                },
+                {
+                    "username": "GhostBuster",
+                    "score": 92000,
+                    "date_time": "2020-12-21T14:45:00.000Z"
+                }
+            ]
+        },
+        {
+            "ID": 3,
+            "game_image": "",
+            "game_name": {
+                "en": "Space Invaders",
+                "fi": "Space Invaders"
+            },
+            "description": {
+                "en": "Space Invaders is an arcade video game created by Tomohiro Nishikado and released in 1978. It was one of the forerunners of modern video gaming.",
+                "fi": "Space Invaders on Tomohiro Nishikadon luoma arcade-videopeli, joka julkaistiin vuonna 1978. Se oli yksi modernin videopelaamisen edelläkävijöistä."
+            },
+            "maker": "Taito",
+            "genre": "Shooter",
+            "publisher": "Taito",
+            "launched_year": 1978,
+            "original_platforms": [
+                "Arcade"
+            ],
+            "added_to_hall_of_fame": "2017-08-01T11:00:00.000Z",
+            "hall_of_fame": [
+                {
+                    "username": "AlienBlaster",
+                    "score": 57000,
+                    "date_time": "2018-05-18T11:30:00.000Z"
+                },
+                {
+                    "username": "InvaderDefender",
+                    "score": 62000,
+                    "date_time": "2019-07-12T14:00:00.000Z"
+                },
+                {
+                    "username": "SpaceAce",
+                    "score": 65000,
+                    "date_time": "2020-11-02T15:15:00.000Z"
+                }
+            ]
+        },
+        {
+            "ID": 4,
+            "game_image": "",
+            "game_name": {
+                "en": "Donkey Kong",
+                "fi": "Donkey Kong"
+            },
+            "description": {
+                "en": "Donkey Kong is an arcade game released by Nintendo in 1981. It marked the first appearance of Mario, one of the most iconic characters in video game history.",
+                "fi": "Donkey Kong on Nintendo vuonna 1981 julkaisema arcade-peli. Se merkitsi Marion, yhden videopelihistorian ikonisimmista hahmoista, ensiesiintymistä."
+            },
+            "maker": "Nintendo",
+            "genre": "Platformer",
+            "publisher": "Nintendo",
+            "launched_year": 1981,
+            "original_platforms": [
+                "Arcade"
+            ],
+            "added_to_hall_of_fame": "2015-09-15T09:30:00.000Z",
+            "hall_of_fame": [
+                {
+                    "username": "BarrelJumper",
+                    "score": 68000,
+                    "date_time": "2018-07-14T10:20:00.000Z"
+                },
+                {
+                    "username": "PaulineRescue",
+                    "score": 70000,
+                    "date_time": "2019-09-21T12:45:00.000Z"
+                },
+                {
+                    "username": "KongKing",
+                    "score": 75000,
+                    "date_time": "2020-10-25T14:10:00.000Z"
+                }
+            ]
+        },
+        {
+            "ID": 5,
+            "game_image": "",
+            "game_name": {
+                "en": "Asteroids",
+                "fi": "Asteroids"
+            },
+            "description": {
+                "en": "Asteroids is a space-themed multidirectional shooter arcade game released in 1979 by Atari, Inc.",
+                "fi": "Asteroids on avaruusaiheinen monisuuntainen ampuja arcade-peli, jonka Atari, Inc. julkaisi vuonna 1979."
+            },
+            "maker": "Atari",
+            "genre": "Shooter",
+            "publisher": "Atari",
+            "launched_year": 1979,
+            "original_platforms": [
+                "Arcade"
+            ],
+            "added_to_hall_of_fame": "2016-10-05T08:45:00.000Z",
+            "hall_of_fame": [
+                {
+                    "username": "RockBlaster",
+                    "score": 47000,
+                    "date_time": "2018-08-16T09:30:00.000Z"
+                },
+                {
+                    "username": "StarPilot",
+                    "score": 50000,
+                    "date_time": "2019-11-20T11:00:00.000Z"
+                },
+                {
+                    "username": "AstroAce",
+                    "score": 52000,
+                    "date_time": "2020-12-18T12:30:00.000Z"
+                }
+            ]
+        },
+        {
+            "ID": 6,
+            "game_image": "",
+            "game_name": {
+                "en": "Defender",
+                "fi": "Defender"
+            },
+            "description": {
+                "en": "Defender is a horizontally-scrolling shoot 'em up arcade game developed and released by Williams Electronics in 1981.",
+                "fi": "Defender on vaakasuoraan vierittävä shoot 'em up arcade-peli, jonka Williams Electronics kehitti ja julkaisi vuonna 1981."
+            },
+            "maker": "Williams Electronics",
+            "genre": "Shooter",
+            "publisher": "Williams Electronics",
+            "launched_year": 1981,
+            "original_platforms": [
+                "Arcade"
+            ],
+            "added_to_hall_of_fame": "2017-11-03T10:00:00.000Z",
+            "hall_of_fame": [
+                {
+                    "username": "GalaxyGuardian",
+                    "score": 67000,
+                    "date_time": "2018-09-22T11:45:00.000Z"
+                },
+                {
+                    "username": "PlanetProtector",
+                    "score": 70000,
+                    "date_time": "2019-10-14T13:15:00.000Z"
+                },
+                {
+                    "username": "DefenderDuke",
+                    "score": 72000,
+                    "date_time": "2020-11-19T15:00:00.000Z"
+                }
+            ]
+        },
+        {
+            "ID": 7,
+            "game_image": "",
+            "game_name": {
+                "en": "Ms. Pac-Man",
+                "fi": "Ms. Pac-Man"
+            },
+            "description": {
+                "en": "Ms. Pac-Man is an arcade video game produced by Midway as an unauthorized sequel to Pac-Man.",
+                "fi": "Ms. Pac-Man on Midwayn tuottama arcade-videopeli, joka toimii valtuuttamattomana jatko-osana Pac-Manille."
+            },
+            "maker": "Midway",
+            "genre": "Arcade",
+            "publisher": "Midway",
+            "launched_year": 1982,
+            "original_platforms": [
+                "Arcade"
+            ],
+            "added_to_hall_of_fame": "2015-12-12T11:30:00.000Z",
+            "hall_of_fame": [
+                {
+                    "username": "CherryChomper",
+                    "score": 88000,
+                    "date_time": "2018-11-30T10:00:00.000Z"
+                },
+                {
+                    "username": "GhostGobbler",
+                    "score": 91000,
+                    "date_time": "2019-12-19T13:00:00.000Z"
+                },
+                {
+                    "username": "MazeMaster",
+                    "score": 95000,
+                    "date_time": "2020-12-21T14:45:00.000Z"
+                }
+            ]
+        },
+        {
+            "ID": 8,
+            "game_image": "",
+            "game_name": {
+                "en": "Centipede",
+                "fi": "Centipede"
+            },
+            "description": {
+                "en": "Centipede is a vertically-oriented fixed shooter arcade game produced by Atari, Inc. in 1981.",
+                "fi": "Centipede on pystysuuntainen kiinteä ampuja arcade-peli, jonka Atari, Inc. tuotti vuonna 1981."
+            },
+            "maker": "Atari",
+            "genre": "Shooter",
+            "publisher": "Atari",
+            "launched_year": 1981,
+            "original_platforms": [
+                "Arcade"
+            ],
+            "added_to_hall_of_fame": "2016-01-20T10:15:00.000Z",
+            "hall_of_fame": [
+                {
+                    "username": "BugBlaster",
+                    "score": 57000,
+                    "date_time": "2018-12-14T11:30:00.000Z"
+                },
+                {
+                    "username": "CreepyCrawler",
+                    "score": 59000,
+                    "date_time": "2019-12-28T13:00:00.000Z"
+                },
+                {
+                    "username": "CentipedeChamp",
+                    "score": 62000,
+                    "date_time": "2020-12-31T15:45:00.000Z"
+                }
+            ]
+        },
+        {
+            "ID": 9,
+            "game_image": "",
+            "game_name": {
+                "en": "Galaga",
+                "fi": "Galaga"
+            },
+            "description": {
+                "en": "Galaga is a fixed shooter arcade game developed and published by Namco in Japan and Midway in North America in 1981.",
+                "fi": "Galaga on kiinteä ampuja arcade-peli, jonka Namco kehitti ja julkaisi Japanissa ja Midway Pohjois-Amerikassa vuonna 1981."
+            },
+            "maker": "Namco",
+            "genre": "Shooter",
+            "publisher": "Namco, Midway",
+            "launched_year": 1981,
+            "original_platforms": [
+                "Arcade"
+            ],
+            "added_to_hall_of_fame": "2017-02-22T09:30:00.000Z",
+            "hall_of_fame": [
+                {
+                    "username": "SpaceShooter",
+                    "score": 67000,
+                    "date_time": "2018-11-29T10:30:00.000Z"
+                },
+                {
+                    "username": "GalacticHero",
+                    "score": 70000,
+                    "date_time": "2019-12-25T12:00:00.000Z"
+                },
+                {
+                    "username": "StarStriker",
+                    "score": 72000,
+                    "date_time": "2020-12-28T13:45:00.000Z"
+                }
+            ]
+        },
+        {
+            "ID": 10,
+            "game_image": "",
+            "game_name": {
+                "en": "Frogger",
+                "fi": "Frogger"
+            },
+            "description": {
+                "en": "Frogger is an arcade game developed by Konami and licensed for North American distribution by Sega/Gremlin. It was released in 1981.",
+                "fi": "Frogger on Konamin kehittämä arcade-peli, joka on lisensoitu Pohjois-Amerikan jakeluun Sega/Gremlin toimesta. Se julkaistiin vuonna 1981."
+            },
+            "maker": "Konami",
+            "genre": "Action",
+            "publisher": "Konami, Sega/Gremlin",
+            "launched_year": 1981,
+            "original_platforms": [
+                "Arcade"
+            ],
+            "added_to_hall_of_fame": "2018-03-10T10:45:00.000Z",
+            "hall_of_fame": [
+                {
+                    "username": "RiverCrosser",
+                    "score": 57000,
+                    "date_time": "2018-12-21T11:00:00.000Z"
+                },
+                {
+                    "username": "LeapFrog",
+                    "score": 60000,
+                    "date_time": "2019-12-29T12:15:00.000Z"
+                },
+                {
+                    "username": "FrogKing",
+                    "score": 63000,
+                    "date_time": "2020-12-31T14:30:00.000Z"
+                }
+            ]
+        },
+        {
+            "ID": 11,
+            "game_image": "",
+            "game_name": {
+                "en": "Joust",
+                "fi": "Joust"
+            },
+            "description": {
+                "en": "Joust is an arcade game developed by Williams Electronics and released in 1982. It is a platform game with action elements.",
+                "fi": "Joust on Williams Electronicsin kehittämä ja vuonna 1982 julkaisema arcade-peli. Se on toimintaelementtejä sisältävä tasohyppelypeli."
+            },
+            "maker": "Williams Electronics",
+            "genre": "Platformer",
+            "publisher": "Williams Electronics",
+            "launched_year": 1982,
+            "original_platforms": [
+                "Arcade"
+            ],
+            "added_to_hall_of_fame": "2016-05-14T10:30:00.000Z",
+            "hall_of_fame": [
+                {
+                    "username": "KnightRider",
+                    "score": 62000,
+                    "date_time": "2018-06-18T11:00:00.000Z"
+                },
+                {
+                    "username": "FlyingWarrior",
+                    "score": 65000,
+                    "date_time": "2019-07-22T12:30:00.000Z"
+                },
+                {
+                    "username": "BattleBird",
+                    "score": 68000,
+                    "date_time": "2020-08-25T13:45:00.000Z"
+                }
+            ]
+        },
+        {
+            "ID": 12,
+            "game_image": "",
+            "game_name": {
+                "en": "Q*bert",
+                "fi": "Q*bert"
+            },
+            "description": {
+                "en": "Q*bert is an arcade game developed and published by Gottlieb in 1982. It is a platform game with puzzle elements.",
+                "fi": "Q*bert on Gottliebin kehittämä ja julkaisema arcade-peli vuodelta 1982. Se on tasohyppelypeli, jossa on pulmanratkaisuelementtejä."
+            },
+            "maker": "Gottlieb",
+            "genre": "Platformer",
+            "publisher": "Gottlieb",
+            "launched_year": 1982,
+            "original_platforms": [
+                "Arcade"
+            ],
+            "added_to_hall_of_fame": "2017-03-25T11:15:00.000Z",
+            "hall_of_fame": [
+                {
+                    "username": "PuzzlePro",
+                    "score": 73000,
+                    "date_time": "2018-04-12T12:30:00.000Z"
+                },
+                {
+                    "username": "QbertKing",
+                    "score": 76000,
+                    "date_time": "2019-05-18T13:45:00.000Z"
+                },
+                {
+                    "username": "CubeMaster",
+                    "score": 78000,
+                    "date_time": "2020-06-20T15:00:00.000Z"
+                }
+            ]
+        },
+        {
+            "ID": 13,
+            "game_image": "",
+            "game_name": {
+                "en": "Tron",
+                "fi": "Tron"
+            },
+            "description": {
+                "en": "Tron is an arcade video game manufactured and distributed by Bally Midway in 1982.",
+                "fi": "Tron on Bally Midwayn valmistama ja levittämä arcade-videopeli vuodelta 1982."
+            },
+            "maker": "Bally Midway",
+            "genre": "Action",
+            "publisher": "Bally Midway",
+            "launched_year": 1982,
+            "original_platforms": [
+                "Arcade"
+            ],
+            "added_to_hall_of_fame": "2018-04-10T09:00:00.000Z",
+            "hall_of_fame": [
+                {
+                    "username": "GridMaster",
+                    "score": 58000,
+                    "date_time": "2018-05-15T11:15:00.000Z"
+                },
+                {
+                    "username": "LightCycle",
+                    "score": 60000,
+                    "date_time": "2019-06-18T13:00:00.000Z"
+                },
+                {
+                    "username": "BitWarrior",
+                    "score": 63000,
+                    "date_time": "2020-07-22T15:30:00.000Z"
+                }
+            ]
+        },
+        {
+            "ID": 14,
+            "game_image": "",
+            "game_name": {
+                "en": "BurgerTime",
+                "fi": "BurgerTime"
+            },
+            "description": {
+                "en": "BurgerTime is a 1982 arcade game created by Data East. The player controls chef Peter Pepper as he runs through a maze of platforms.",
+                "fi": "BurgerTime on Data Eastin vuonna 1982 luoma arcade-peli. Pelaaja ohjaa kokki Peter Pepperiä, joka juoksee läpi tasojen labyrintin."
+            },
+            "maker": "Data East",
+            "genre": "Action",
+            "publisher": "Data East",
+            "launched_year": 1982,
+            "original_platforms": [
+                "Arcade"
+            ],
+            "added_to_hall_of_fame": "2016-08-15T10:00:00.000Z",
+            "hall_of_fame": [
+                {
+                    "username": "ChefMaster",
+                    "score": 61000,
+                    "date_time": "2018-06-20T11:30:00.000Z"
+                },
+                {
+                    "username": "BurgerBoss",
+                    "score": 64000,
+                    "date_time": "2019-07-25T13:00:00.000Z"
+                },
+                {
+                    "username": "GrillKing",
+                    "score": 67000,
+                    "date_time": "2020-08-28T14:45:00.000Z"
+                }
+            ]
+        },
+        {
+            "ID": 15,
+            "game_image": "",
+            "game_name": {
+                "en": "Dig Dug",
+                "fi": "Dig Dug"
+            },
+            "description": {
+                "en": "Dig Dug is an arcade game developed and published by Namco in Japan in 1982, and by Atari in North America.",
+                "fi": "Dig Dug on Namcon Japanissa vuonna 1982 kehittämä ja julkaisema arcade-peli, jonka Atari julkaisi Pohjois-Amerikassa."
+            },
+            "maker": "Namco",
+            "genre": "Action",
+            "publisher": "Namco, Atari",
+            "launched_year": 1982,
+            "original_platforms": [
+                "Arcade"
+            ],
+            "added_to_hall_of_fame": "2017-06-05T09:30:00.000Z",
+            "hall_of_fame": [
+                {
+                    "username": "DiggerDan",
+                    "score": 69000,
+                    "date_time": "2018-07-18T10:00:00.000Z"
+                },
+                {
+                    "username": "TunnelMaster",
+                    "score": 72000,
+                    "date_time": "2019-08-20T12:30:00.000Z"
+                },
+                {
+                    "username": "BoulderBasher",
+                    "score": 75000,
+                    "date_time": "2020-09-23T14:00:00.000Z"
+                }
+            ]
+        },
+        {
+            "ID": 16,
+            "game_image": "",
+            "game_name": {
+                "en": "Tempest",
+                "fi": "Tempest"
+            },
+            "description": {
+                "en": "Tempest is a 1981 arcade game by Atari Inc., notable for its vector graphics and distinctive gameplay.",
+                "fi": "Tempest on Atari Inc.:n vuonna 1981 julkaisema arcade-peli, joka tunnetaan vektorigrafiikastaan ja erottuvasta pelattavuudestaan."
+            },
+            "maker": "Atari",
+            "genre": "Shooter",
+            "publisher": "Atari",
+            "launched_year": 1981,
+            "original_platforms": [
+                "Arcade"
+            ],
+            "added_to_hall_of_fame": "2016-12-25T10:15:00.000Z",
+            "hall_of_fame": [
+                {
+                    "username": "StormChaser",
+                    "score": 73000,
+                    "date_time": "2018-12-27T11:30:00.000Z"
+                },
+                {
+                    "username": "VortexMaster",
+                    "score": 76000,
+                    "date_time": "2019-12-31T13:00:00.000Z"
+                },
+                {
+                    "username": "CycloneKing",
+                    "score": 78000,
+                    "date_time": "2020-12-30T14:45:00.000Z"
+                }
+            ]
+        },
+        {
+            "ID": 17,
+            "game_image": "",
+            "game_name": {
+                "en": "Robotron: 2084",
+                "fi": "Robotron: 2084"
+            },
+            "description": {
+                "en": "Robotron: 2084 is a 1982 arcade game developed by Eugene Jarvis and Larry DeMar of Vid Kidz and released by Williams Electronics.",
+                "fi": "Robotron: 2084 on Eugene Jarvisin ja Larry DeMarin kehittämä arcade-peli vuodelta 1982, jonka julkaisi Williams Electronics."
+            },
+            "maker": "Vid Kidz",
+            "genre": "Shooter",
+            "publisher": "Williams Electronics",
+            "launched_year": 1982,
+            "original_platforms": [
+                "Arcade"
+            ],
+            "added_to_hall_of_fame": "2018-01-05T10:45:00.000Z",
+            "hall_of_fame": [
+                {
+                    "username": "RoboWarrior",
+                    "score": 82000,
+                    "date_time": "2018-02-15T12:00:00.000Z"
+                },
+                {
+                    "username": "MechMaster",
+                    "score": 85000,
+                    "date_time": "2019-03-20T13:30:00.000Z"
+                },
+                {
+                    "username": "2084Hero",
+                    "score": 88000,
+                    "date_time": "2020-04-25T15:15:00.000Z"
+                }
+            ]
+        },
+        {
+            "ID": 18,
+            "game_image": "",
+            "game_name": {
+                "en": "Zaxxon",
+                "fi": "Zaxxon"
+            },
+            "description": {
+                "en": "Zaxxon is an isometric shooter arcade game developed and released by Sega in 1982.",
+                "fi": "Zaxxon on Segan vuonna 1982 kehittämä ja julkaisema isometrinen ampuja arcade-peli."
+            },
+            "maker": "Sega",
+            "genre": "Shooter",
+            "publisher": "Sega",
+            "launched_year": 1982,
+            "original_platforms": [
+                "Arcade"
+            ],
+            "added_to_hall_of_fame": "2017-05-12T11:15:00.000Z",
+            "hall_of_fame": [
+                {
+                    "username": "ZaxxonAce",
+                    "score": 68000,
+                    "date_time": "2018-06-14T12:30:00.000Z"
+                },
+                {
+                    "username": "IsometricHero",
+                    "score": 71000,
+                    "date_time": "2019-07-18T13:45:00.000Z"
+                },
+                {
+                    "username": "SegaMaster",
+                    "score": 74000,
+                    "date_time": "2020-08-22T15:00:00.000Z"
+                }
+            ]
+        },
+        {
+            "ID": 19,
+            "game_image": "",
+            "game_name": {
+                "en": "Gauntlet",
+                "fi": "Gauntlet"
+            },
+            "description": {
+                "en": "Gauntlet is a 1985 fantasy-themed arcade game by Atari Games. The player controls one of four characters: Thor, Merlin, Thyra, or Questor.",
+                "fi": "Gauntlet on Atari Gamesin vuonna 1985 julkaisema fantasiateemainen arcade-peli. Pelaaja ohjaa yhtä neljästä hahmosta: Thoria, Merlinia, Thyraa tai Questoria."
+            },
+            "maker": "Atari",
+            "genre": "Action",
+            "publisher": "Atari",
+            "launched_year": 1985,
+            "original_platforms": [
+                "Arcade"
+            ],
+            "added_to_hall_of_fame": "2016-07-30T09:45:00.000Z",
+            "hall_of_fame": [
+                {
+                    "username": "DungeonMaster",
+                    "score": 97000,
+                    "date_time": "2018-08-17T11:00:00.000Z"
+                },
+                {
+                    "username": "WarriorKing",
+                    "score": 100000,
+                    "date_time": "2019-09-20T12:30:00.000Z"
+                },
+                {
+                    "username": "FantasyHero",
+                    "score": 105000,
+                    "date_time": "2020-10-25T13:45:00.000Z"
+                }
+            ]
+        },
+        {
+            "ID": 20,
+            "game_image": "",
+            "game_name": {
+                "en": "Bubble Bobble",
+                "fi": "Bubble Bobble"
+            },
+            "description": {
+                "en": "Bubble Bobble is an arcade game by Taito, first released in 1986. The player controls a dragon named Bub or Bob, who must complete levels by trapping enemies in bubbles.",
+                "fi": "Bubble Bobble on Taiton arcade-peli, joka julkaistiin ensimmäisen kerran vuonna 1986. Pelaaja ohjaa Bub- tai Bob-nimistä lohikäärmettä, jonka on suoritettava tasoja vangitsemalla viholliset kupliin."
+            },
+            "maker": "Taito",
+            "genre": "Platformer",
+            "publisher": "Taito",
+            "launched_year": 1986,
+            "original_platforms": [
+                "Arcade"
+            ],
+            "added_to_hall_of_fame": "2018-09-04T10:00:00.000Z",
+            "hall_of_fame": [
+                {
+                    "username": "BubbleMaster",
+                    "score": 91000,
+                    "date_time": "2018-10-11T11:30:00.000Z"
+                },
+                {
+                    "username": "DragonHero",
+                    "score": 94000,
+                    "date_time": "2019-11-14T13:00:00.000Z"
+                },
+                {
+                    "username": "BubbleKing",
+                    "score": 97000,
+                    "date_time": "2020-12-17T14:45:00.000Z"
+                }
+            ]
+        },
+        {
+            "ID": 21,
+            "game_image": "",
+            "game_name": {
+                "en": "Double Dragon",
+                "fi": "Double Dragon"
+            },
+            "description": {
+                "en": "Double Dragon is a 1987 beat 'em up arcade game developed by Technos Japan. The player controls martial artist Billy Lee, as he fights against various adversaries.",
+                "fi": "Double Dragon on Technos Japanin vuonna 1987 kehittämä beat 'em up arcade-peli. Pelaaja ohjaa taistelulajien taitajaa Billy Lee, joka taistelee erilaisia vastustajia vastaan."
+            },
+            "maker": "Technos Japan",
+            "genre": "Beat 'em up",
+            "publisher": "Technos Japan",
+            "launched_year": 1987,
+            "original_platforms": [
+                "Arcade"
+            ],
+            "added_to_hall_of_fame": "2019-01-15T11:15:00.000Z",
+            "hall_of_fame": [
+                {
+                    "username": "DragonMaster",
+                    "score": 87000,
+                    "date_time": "2019-03-10T12:30:00.000Z"
+                },
+                {
+                    "username": "BillyTheHero",
+                    "score": 90000,
+                    "date_time": "2020-04-15T13:45:00.000Z"
+                },
+                {
+                    "username": "BeatEmUpKing",
+                    "score": 93000,
+                    "date_time": "2021-05-20T15:00:00.000Z"
+                }
+            ]
+        }
+    ]
+}

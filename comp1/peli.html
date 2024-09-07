@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Retro Game House</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="utils.js" defer></script>
+    <script src="game.js" defer></script>
+  </head>
+  <body>
+    <header>
+      <div class="in-header">
+        <img
+          class="header-logo"
+          src="assets/logo/logo-white.png"
+          alt="Retro Game House Logo"
+        />
+        <a class="button secondary login-button" href="#">Kirjaudu sisään</a>
+      </div>
+    </header>
+
+    <main>
+      <h1 id="game-name"></h1>
+
+      <input
+        id="search-player"
+        class="search"
+        type="text"
+        placeholder="Hae pelaajaa"
+      />
+
+      <div id="result-template" class="result">
+        <h2 id="placement">1.</h2>
+        <div class="result-info">
+          <h3 id="username">{{username}}</h3>
+          <p id="score-date">{{score}} - {{date}}</p>
+        </div>
+      </div>
+      <div id="result-container" class="result-container"></div>
+    </main>
+
+    <footer>
+      <p class="copy">&copy; Taitaja 2024</p>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+  --blue: #304bff;
+  --violet: #9900ff;
+  --turquoise: #00ffcc;
+  --gray: #f3f3f3;
+
+  font-family: "Kanit", "Calibri", sans-serif;
+  font-size: 17px;
+}
+
+body {
+  margin: 0;
+}
+
+nav {
+  background-color: var(--blue);
+  padding: 1em;
+}
+
+main {
+  max-width: 1200px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 35px;
+}
+h2 {
+  font-size: 29px;
+}
+img {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: unset;
+  text-decoration: none;
+}
+
+
+.hero {
+  margin: 0;
+  height: calc(100vh - 100px);
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.heroText {   
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.gameList {
+  flex: 2;
+}
+
+.gameInfo {
+  background-color: var(--gray);
+  padding: 1em;
+  border-radius: 10px;
+  margin: 0.5em 0;
+  display: flex;
+  gap: 1em;
+}
+.gameInfo:hover {
+  cursor: pointer;
+}
+.gameHeader {
+  align-items: center;
+}
+.gameInfo h2 {
+  margin: 0;
+}
+.gameInfo img {
+  max-height: 200px;
+}
+.gameTitle {
+  max-width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.gameYear {
+  margin: 0;
+}
+
+#searchBox {
+  margin: 1em 0;
+  padding: 1em 2em;
+  background-color: var(--gray);
+  border: none;
+  border-radius: 999px;
+  max-width: 800px;
+}
+
+.pagination {
+  justify-content: center;
+  display: flex;
+  gap: 1em;
+  margin: 1em 0;
+}
+.pagination button {
+  padding: 1em;
+  width: 48px;
+  height: 48px;
+  border-radius: 100%;
+  border: none;
+  background-color: var(--gray);
+  color: black;
+  font-weight: bold;
+}
+.pagination button:hover {
+  cursor: pointer;
+}
+.selectedPage {
+  background-color: #304bff !important;
+  color: white !important;
+}
+
+.highScores {
+  background-color: var(--gray);
+  padding: 1em;
+  border-radius: 10px;
+  margin: 0.5em 0;
+}
